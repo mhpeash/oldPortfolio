@@ -1,0 +1,149 @@
+body
+{
+background-color:rgb(229,226,211);
+}
+
+#headerright
+{
+	margin-top:60px;
+}
+.headerleft
+{
+	font-family:Helvetica, sans-serif;
+	font-size:40px;
+	color:black;
+	margin-top:40px;
+}
+h3
+{
+	color:black;
+}
+
+#info
+{
+	margin-top:140px;
+	font-family:Calibri;
+	font-size:21px;
+}
+
+#photo
+{
+	margin-top:80px;
+	padding-left:130px;
+}
+
+#footr
+{
+background-color:rgb(232,99,78);
+width:100%;
+height:220px;
+margin-top:100px;
+left: 0;
+}
+
+#right
+{
+	font-size:15px;
+	text-align:center;
+	color:black;
+	margin-top:60px;
+}
+
+#footerdesign
+{
+	margin-top:50px;
+	text-align:center;
+	font-size:20px;
+	color:black;
+}
+
+#mail
+{
+	font-size:20px;
+	color:blue;
+	
+}
+
+.cvheader
+{
+background-color: rgba(149, 204, 46, 0.8);
+ color:black;
+ width: 100%;
+ height: 70px;	
+ padding:20px;
+ font-size:25px;
+ 
+}
+
+#cvupper
+{
+	margin-top:40px;
+	margin-bottom:10px;
+}
+
+#cvupperright
+{
+	padding-left:200px;
+	font-size:16px;
+}
+
+.cvinfo
+{
+	margin-top:40px;
+	padding-bottom:20px;
+	font-family:sans-serif,Verdana;
+	font-size:20px;
+	color:black;
+}
+
+
+
+#skills
+{
+	margin-top:80px;
+}
+
+
+
+
+
+
+/*--table info--*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table, td, th {    
+    border: 1px solid black;
+    text-align: left;
+	font-size:20px;
+	color:black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+
+
+
+
+
+
